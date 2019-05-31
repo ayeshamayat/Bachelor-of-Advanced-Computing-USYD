@@ -25,7 +25,7 @@ Graduates of all of these majors have a diverse range of possible careers in the
 ## Authors
 - Kevin Marcelino
 - Ayesha Mayat
-- Tom Schwartz
+- Tom Schwarz
 
 ## Project Status
 This report is complete for three of the four majors. The major of Information Systems has not been covered. 
