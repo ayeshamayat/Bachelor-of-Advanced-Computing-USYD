@@ -1,7 +1,7 @@
 # Software Development Report ReadME
 *Author: Kevin Marcelino*
 
-###Abstract
+### *Abstract*
 This report covers the Nature of the Software Development major as well as the future possibilities for Software Development graduates. Software Development is one of the four majors of the Bachelor of Advanced Computing and this report summurises the similarites and differences that Software Development shares with the other majors. The aim of the report is to guide aspiring partakers of Software Development as well as provide them with insight of the course so that they will be able to better understand and know what to expect form the major.
 
 
